@@ -1,0 +1,17 @@
+title:Content_put_file2
+subtitle:demonstration content server0
+link:www.cs.adelaide.edu.au
+updated:2015-08-07T18:30:02Z
+author:Meina Ma
+id:urn::uuid:60a76c80-d399-11d9-b93C-0003939e0af6
+entry
+title:Content_put_file2-1
+link:www.cs.adelaide.edu.au/users/third/ds/
+id:urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a
+updated:2015-08-07T18:30:02Z
+summary:this is content server2-1 for demonstration purpose
+title:Content_put_file2-2
+link:www.cs.adelaide.edu.au/users/third/ds/14ds2s1
+id:urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6b
+updated:2015-08-07T18:29:02Z
+summary:this is content server2-2 for demonstration purpose

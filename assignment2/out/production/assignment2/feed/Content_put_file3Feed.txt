@@ -1,0 +1,29 @@
+LamportClock: 10
+PUT/atom.xml HTTP/1.1
+User-Agent: ContentServer/1/0
+Content-Type: XML feed
+Content-Length: 17
+
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<feed xml:lang='en-US' xmlns="http://www.w3.org/2005/Atom">
+        <title>Content_put_file3</title>
+        <subtitle>demonstration content server0</subtitle>
+        <link href="www.cs.adelaide.edu.au" rel="self"/>
+        <updated>2015-08-07T18:30:02Z</updated>
+        <author>
+                <name>Meina Ma</name>
+        </author>
+        <id>urn::uuid:60a76c80-d399-11d9-b93C-0003939e0af6</id>
+        <entry>
+                 <title>Content_put_file3-1</title>
+                 <link type='text/html' href='www.cs.adelaide.edu.au/users/third/ds/'/>
+                 <id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+                 <updated>2015-08-07T18:30:02Z</updated>
+                 <summary>this is content server3-1 for demonstration purpose</summary>
+                 <title>Content_put_file3-2</title>
+                 <link type='text/html' href='www.cs.adelaide.edu.au/users/third/ds/14ds2s1'/>
+                 <id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6b</id>
+                 <updated>2015-08-07T18:29:02Z</updated>
+                 <summary>this is content server3-2 for demonstration purpose</summary>
+        </entry>
+</feed>eof
